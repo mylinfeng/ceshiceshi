@@ -13,7 +13,7 @@
     <!-- 统一控制jar包版本 -->
     <properties>
         <servlet-version>3.1.0</servlet-version>
-        <mysql-version>5.1.38</mysql-version>
+        <mysql-version>8.0.16</mysql-version>
         <commons-dbcp2-version>2.1.1</commons-dbcp2-version>
         <dbutil-version>1.6</dbutil-version>
         <spring-version>4.3.18.RELEASE</spring-version>
