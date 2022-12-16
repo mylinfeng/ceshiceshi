@@ -16,7 +16,7 @@
         <mysql-version>5.1.38</mysql-version>
         <commons-dbcp2-version>2.1.1</commons-dbcp2-version>
         <dbutil-version>1.6</dbutil-version>
-        <spring-version>4.3.18.RELEASE</spring-version>
+        <spring-version>5.2.20.RELEASE</spring-version>
         <jstl-version>1.2</jstl-version>
         <lombok-version>1.16.10</lombok-version>
     </properties>
